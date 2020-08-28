@@ -10,6 +10,8 @@ Welcome to SphinxTest's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   hello world
+
 
 
 Indices and tables

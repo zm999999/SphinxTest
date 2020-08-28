@@ -11,6 +11,8 @@ Welcome to SphinxTest's documentation!
    :caption: Contents:
 
    hello world
+   index1/index
+   index2/index
 
 
 

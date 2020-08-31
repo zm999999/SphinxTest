@@ -17,9 +17,9 @@
 # sys.path.insert(0, os.path.abspath('.'))
 
 # 解决编码问题
-import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
+# import sys
+# reload(sys)
+# sys.setdefaultencoding('utf-8')
 
 # -- Project information -----------------------------------------------------
 
